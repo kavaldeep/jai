@@ -117,7 +117,7 @@ const Description = () => {
             </h3>
             <div className=" mt-9">
             <p className="text-white opacity-60 text-[16px]">
-                Don't miss the opportunity to invest in the future of currency
+                Don&apos;t miss the opportunity to invest in the future of currency
                 <br />  
                 Be ahead of the game
             </p>
