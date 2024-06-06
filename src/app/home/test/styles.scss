@@ -1,0 +1,27 @@
+
+
+.counter {
+  display: flex;
+  font-size: 48px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.odometer {
+  overflow: hidden;
+  height: 68px;
+
+  
+  &Item {
+    display: inline-block;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    vertical-align: top;
+
+
+  }
+
+ }
