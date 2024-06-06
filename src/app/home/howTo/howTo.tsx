@@ -1,6 +1,5 @@
 import React from 'react';
-//@ts-ignore
-import SectionTitle from '../sharedComponents/SectionTitle';
+import SectionTitle from '../sharedComponents/sectionTitle';
 import Component2 from './components/component2';
 import { SectionTitleAnimation , fadeUpAnimation} from '../animations/animations';
 

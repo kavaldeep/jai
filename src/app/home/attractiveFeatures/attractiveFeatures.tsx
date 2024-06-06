@@ -1,5 +1,5 @@
 import React from "react";
-import SectionTitle from "../sharedComponents/SectionTitle";
+import SectionTitle from "../sharedComponents/sectionTitle";
 import FeatureCard from "./featureCard";
 import { fadeUpAnimation, SectionTitleAnimation } from "../animations/animations";
 

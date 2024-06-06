@@ -1,5 +1,5 @@
 import React from "react";
-import SectionTitle from "../sharedComponents/SectionTitle";
+import SectionTitle from "../sharedComponents/sectionTitle";
 import { fadeUpAnimation, SectionTitleAnimation } from "../animations/animations";
 
 const Testimony: React.FC = () => {

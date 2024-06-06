@@ -1,5 +1,5 @@
 import React from "react";
-import SectionTitle from "../sharedComponents/SectionTitle";
+import SectionTitle from  "../sharedComponents/sectionTitle"
 import { Button1 } from "../hero/buttons";
 import {
   fadeUpAnimation,

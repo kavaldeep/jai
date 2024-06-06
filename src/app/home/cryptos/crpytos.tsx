@@ -1,5 +1,5 @@
 import React from "react";
-import SectionTitle from "../sharedComponents/SectionTitle";
+import SectionTitle from "../sharedComponents/sectionTitle";
 import CryptoCard from "./components/component";
 import { fadeUpAnimation, SectionTitleAnimation } from "../animations/animations";
 

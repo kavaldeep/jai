@@ -1,6 +1,5 @@
 import { delay } from "framer-motion";
 import React from "react";
-//import { SectionTitleAnimation } from "../animations/animations";
 interface SectionTitleProps {
   title: string;
   description: string;
