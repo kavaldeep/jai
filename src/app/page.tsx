@@ -9,7 +9,10 @@ import Testimony from "./home/testimony/testimony";
 import Analysis from "./home/analysis/analysis";
 import Footer from "./home/footer/footer";
 import Cursor from "./home/cursor/cusor";
+import ImageAnimations from "./home/test/imageAnimations";
 import { useEffect } from "react";
+import Icons from "./home/icons/icons";
+import Image from "next/image";
 
 export default function Home() {
   useEffect(() => {
@@ -53,9 +56,17 @@ export default function Home() {
     <main className="bg-gray-900 cursor-none">
       <Cursor />
       <Nav />
+      <Icons />
       <Hero />
       <HowTo />
       <Cryptos />
+      <Image
+        className="absolute lg:left-[500px] left-0"
+        src="/bg/lite-coin.png"
+        alt="coin image"
+        width={160}
+        height={160}
+      />
       <AttractiveFeatures />
       <MostAdvanced />
       <Testimony />
