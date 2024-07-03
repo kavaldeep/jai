@@ -70,8 +70,9 @@ export default function Home() {
       <AttractiveFeatures />
       <MostAdvanced />
       <Testimony />
+    
       <Analysis />
-      <Footer />
+       <Footer />
     </main>
   );
 }
